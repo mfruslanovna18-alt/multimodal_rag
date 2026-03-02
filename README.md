@@ -1,4 +1,4 @@
-\# 📚 Multimodal RAG System
+\# Multimodal RAG System
 
 
 
